@@ -16,13 +16,13 @@ This project analyzes IPL batters using Python, K-Means Clustering, and Power BI
 
 ### Page 2: Player Explorer
 
-![Player Explorer](Screenshots/Player Explorer.png)
+![Player Explorer](Screenshots/Player_Explorer.png)
 
 ---
 
 ### Page 3: Cluster Insights
 
-![Cluster Insights](Screenshots/Cluster Insights.png)
+![Cluster Insights](Screenshots/Cluster_Insights.png)
 
 ---
 
